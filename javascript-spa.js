@@ -14,7 +14,7 @@ var quotes = ['series de televisi\u00F3n donde el mundo no se acaba y nadie llev
 'almohadas para gritar',
 'esa persona que nos dice que todo estará bien',
 'so\u00F1ar con besos',
-'conversaciones nocturnas en el patio cuando la temperatura exterior golpea el clima con capucha',
+'conversaciones nocturnas en el patio cuando la temperatura exterior es perfecta',
 'cuerpos', 
 'pop punk de los 2000',
 'preguntas para los otros',
